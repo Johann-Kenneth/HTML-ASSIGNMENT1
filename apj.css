@@ -1,0 +1,32 @@
+
+.container{
+    background-color: greenyellow;
+}
+.hii{
+    text-align: center;
+}
+.legend{
+    width: 50%;
+    height: 70%;
+    background-color: green;
+    margin-left: 350px;
+    margin-top: 50px;
+    box-shadow:  2px 5px 4px red;
+    border-radius: 5px;
+    
+}
+.heading{
+    text-align: center;
+    color: #fff;
+    
+}
+.pad{
+    padding-bottom: 10px;
+}
+.missile{
+    padding-left: 10px;
+    font-weight: bold;
+}
+.bold{
+font-weight: bold;
+}
